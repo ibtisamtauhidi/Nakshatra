@@ -1,0 +1,1 @@
+This application uses GLUT for graphics rendering. If you don't have glut installed, then you need to download the glut32.dll file and copy it to the windows directory. Google is a good friend. Ask him.
